@@ -1,0 +1,1 @@
+add the content renamedFile.txt : this is cool as always
